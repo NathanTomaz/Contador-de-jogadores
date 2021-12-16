@@ -4,3 +4,5 @@
 
 * Dados do servidor 0019 segunda temporada.
 * Números do 1 ao 8 representado cada facção e armazenados no file.txt.
+
+![programa_print](https://user-images.githubusercontent.com/45022693/146447377-f23ca477-d0e8-4bce-b329-61e93ce9b917.png)
